@@ -4,6 +4,9 @@
 🎓 BCA Graduate from Arcade Business College
 🌟 Excited to explore and innovate in the world of Web Development.
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=SahityaJiya&color=blue)
+
 👀 About Me:
 
     🔭 I’m interested in: Building sleek, modern, and user-friendly web applications.
