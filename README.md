@@ -2,6 +2,7 @@
 🎨 Front-End Developer | 💻 Tech Enthusiast | 🍳 Cooking Connoisseur
 
 🎓 BCA Graduate from Arcade Business College
+🎓 MCA Masters from Chandigarh University
 🌟 Excited to explore and innovate in the world of Web Development.
 
 
